@@ -20,6 +20,8 @@ _**OBS**: Novos tópicos serão adicionadas ao repositório conforme o tempo �
 
    1.1 [**NVM**](https://github.com/natanzeraa/js-expert/tree/main/modulo01/aula00-nvm)
 
+   1.2 [**NVM**](https://github.com/natanzeraa/js-expert/tree/main/modulo01/aula01-mocks)
+
 ---
 
 ### Meu Linkedin
