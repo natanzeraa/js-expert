@@ -1,0 +1,17 @@
+nvm install 12.18.3 -> instala a versão 12.18.3 do Node.js
+nvm install LTS -> instala a versão LTS do Node.js
+
+nvm current -> mostra a versão atual do Node.js rodando na sua máquina
+
+nvm list -> lista todas as versões do Node.js que você tem instalado na sua máquina
+
+nvm uninstall LTS -> desinstala a versão LTS do Node.js 
+nvm uninstall 12.18.3 -> desinstala a versão 12.18.3 do Node.js
+
+nvm use 12.18.3 -> usa a versão 12.18.3 que está instalada na sua máquina
+
+No caso de você ter um arquivo .nvmrc na raiz do projeto basta rodar o comando (nvm use)
+que ele vai detectar automaticamente o arquivo e vai passar a utilizar aquela versão caso
+você tenha ela instalada na sua máquina.
+
+nvm alias default LTS -> define a versão padrão do Node.js para ser a LTS
