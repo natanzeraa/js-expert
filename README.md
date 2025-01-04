@@ -21,8 +21,10 @@ _**OBS**: Novos tópicos serão adicionadas ao repositório conforme o tempo �
    1.0 [**NVM**](https://github.com/natanzeraa/js-expert/tree/main/modulo01/aula00-nvm)
 
    1.1 [**Testing with Mocks**](https://github.com/natanzeraa/js-expert/tree/main/modulo01/aula01-mocks)
-   
+
    1.2 [**Stubs**](https://github.com/natanzeraa/js-expert/tree/main/modulo01/aula02-stubs)
+
+   1.3 [**Spies**](https://github.com/natanzeraa/js-expert/tree/main/modulo01/aula03-spies)
 
 ---
 
